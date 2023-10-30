@@ -1,0 +1,10 @@
+main {
+    
+}
+.buy-btn {
+    background: #0077b5;
+    opacity: 1;
+    transition: 0.3s all;
+    color: #fff;
+    height: 40px;
+}
